@@ -1,14 +1,13 @@
 asgiref
 backports.zoneinfo
 crispy-bootstrap4
-Django
+Django==3.2.1
 django-crispy-forms
 django-extensions
 django-progressive-web-app
 gunicorn
 packaging
 pillow
-psycopg2
 psycopg2-binary
 pytz
 sqlparse
