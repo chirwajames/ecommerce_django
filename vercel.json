@@ -23,7 +23,7 @@
 
     },
     {
-      "src": "/(index.py)",
+      "src": "/(.*)",
       "dest": "ecommerce_project/wsgi.py"
     }
   ]
