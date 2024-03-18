@@ -86,11 +86,11 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
         #'ENGINE': 'django.contrib.gis.db.backends.postgis',
-        'NAME': 'postgres',
+        'NAME': 'railway',
         'USER': 'postgres',
-        'PASSWORD': '2sixMarch93',
-        'HOST': '127.0.0.1',
-        'PORT': '5434',
+        'PASSWORD': 'gfYrkAXycMlxLjRlZVVYQvUgwJOHSETp',
+        'HOST': 'monorail.proxy.rlwy.net',
+        'PORT': '35767',
     }
 }
 
